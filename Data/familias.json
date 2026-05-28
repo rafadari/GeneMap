@@ -1,1 +1,120 @@
-[]
+[
+    {
+        "nome": "Antonio Silva",
+        "idade": 78,
+        "sexo": "Masculino",
+        "doencas": [
+            "diabetes",
+            "hipertensão"
+        ],
+        "pai": "",
+        "mae": "",
+        "fumante": false,
+        "sedentario": true
+    },
+    {
+        "nome": "Helena Silva",
+        "idade": 74,
+        "sexo": "Feminino",
+        "doencas": [
+            "cardiopatia"
+        ],
+        "pai": "",
+        "mae": "",
+        "fumante": false,
+        "sedentario": false
+    },
+    {
+        "nome": "Roberto Martins",
+        "idade": 80,
+        "sexo": "Masculino",
+        "doencas": [
+            "câncer"
+        ],
+        "pai": "",
+        "mae": "",
+        "fumante": true,
+        "sedentario": false
+    },
+    {
+        "nome": "Laura Martins",
+        "idade": 76,
+        "sexo": "Feminino",
+        "doencas": [
+            "alzheimer",
+            "hipertensão"
+        ],
+        "pai": "",
+        "mae": "",
+        "fumante": false,
+        "sedentario": true
+    },
+    {
+        "nome": "Carlos Silva",
+        "idade": 52,
+        "sexo": "Masculino",
+        "doencas": [
+            "hipertensão"
+        ],
+        "pai": "Antonio Silva",
+        "mae": "Helena Silva",
+        "fumante": false,
+        "sedentario": true
+    },
+    {
+        "nome": "Mariana Martins",
+        "idade": 49,
+        "sexo": "Feminino",
+        "doencas": [
+            "diabetes"
+        ],
+        "pai": "Roberto Martins",
+        "mae": "Laura Martins",
+        "fumante": false,
+        "sedentario": false
+    },
+    {
+        "nome": "Renata Silva",
+        "idade": 28,
+        "sexo": "Feminino",
+        "doencas": [],
+        "pai": "Carlos Silva",
+        "mae": "Mariana Martins",
+        "fumante": false,
+        "sedentario": true
+    },
+    {
+        "nome": "Lucas Silva",
+        "idade": 24,
+        "sexo": "Masculino",
+        "doencas": [
+            "asma"
+        ],
+        "pai": "Carlos Silva",
+        "mae": "Mariana Martins",
+        "fumante": true,
+        "sedentario": false
+    },
+    {
+        "nome": "Bianca Silva",
+        "idade": 16,
+        "sexo": "Feminino",
+        "doencas": [],
+        "pai": "Carlos Silva",
+        "mae": "Mariana Martins",
+        "fumante": false,
+        "sedentario": false
+    },
+    {
+        "nome": "Pedro Martins",
+        "idade": 45,
+        "sexo": "Masculino",
+        "doencas": [
+            "depressão"
+        ],
+        "pai": "Roberto Martins",
+        "mae": "Laura Martins",
+        "fumante": false,
+        "sedentario": true
+    }
+]
